@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center"> NEHAL MR, BTech.</h1>
-<h3 align="center"> Python | Java | C++ | Research </h3>
+<h3 align="center"> Python | Java | C++ | Software Developer | IoT Enthusiast | Cloud Computing | AIML Learner | Research </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="nehalmr" />
 </p>
 
 ---
-
+ 
 ### 🔬 Research Focus
 - Artificial Intelligence
 - Quantum Computing
@@ -18,7 +18,14 @@
 - Complex Systems
 
 ### 🧠 Key Projects
-1. Quantum Error Correction**: Developing novel algorithms
+1. **QuickCart: E-commerce Software**
+   - Python, Tkinter, Custom tkinter, Firebase, JSON, JWT
+   - Created a user-friendly e-commerce platform with secure authentication
+
+2. **IoT Healthcare Module**
+   - ESP8266, DS18B20, Pulse Sensor, C++, Thingspeak, Flutter UI
+   - Developed a healthcare monitoring system with IoT integration
+
 
 
 ### 🛠️ Tech Stack
@@ -27,6 +34,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
@@ -47,13 +56,18 @@
 - Solving computational challenges in quantum systems
 
 ### 📫 Connect
-- 🏛️ [Your University/Institution]
+- 🏛️ [SPPU, India]
 - 📧 your.email@institution.edu
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nehalmr/)
-- 🐦 [X](https://twitter.com/nehalmr08)
+- 🐦 [X (Twitter)](https://twitter.com/nehalmr08)
+- 🐙 [GitHub](https://github.com/nehalmr)
+
 
 ---
 
 <p align="center">
+  
+  <i>"Turning ideas into code, one line at a time."</i>
   <i>"The science of today is the technology of tomorrow." - Edward Teller</i>
+  
 </p>
