@@ -50,7 +50,7 @@
 - 🏛️ [Your University/Institution]
 - 📧 your.email@institution.edu
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nehalmr/)
-- 🐦 [@nehalmr](https://twitter.com/nehalmr08)
+- 🐦 [X](https://twitter.com/nehalmr08)
 
 ---
 
