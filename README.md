@@ -67,7 +67,7 @@
 
 <p align="center">
   
-  <i>"Turning ideas into code, one line at a time."</i>
+  <i>"Turning ideas into code, one line at a time."</i><br>
   <i>"The science of today is the technology of tomorrow." - Edward Teller</i>
   
 </p>
