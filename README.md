@@ -43,7 +43,7 @@
 
 ### 📈 GitHub Activity
 <div>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nehalmr&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalmr&layout=compact&theme=dark" alt="Top Languages" />
 </p>
