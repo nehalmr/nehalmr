@@ -45,8 +45,6 @@
 <div>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nehalmr&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalmr&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 </div>
