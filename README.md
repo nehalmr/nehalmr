@@ -46,9 +46,12 @@
 </p>
 
 ### 📈 GitHub Activity
-<p align="center">
+<div>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nehalmr&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+  
+</div>
 
 ### 🤝 Collaboration Interests
 - Development of core JVM, PVM based application
