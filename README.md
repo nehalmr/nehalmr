@@ -1,11 +1,10 @@
-# welcome, Folks!
+# Welcome, Folks!
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center"> NEHAL MR </h1>
 <h3 align="center"> Python | Java | C++ | Research </h3>
 <h3 align="center"> Software Developer | IoT Enthusiast | Cloud Computing | AIML Learner </h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="nehalmr" />
 </p>
@@ -22,12 +21,9 @@
 1. **QuickCart: E-commerce Software**
    - Python, Tkinter, Custom tkinter, Firebase, JSON, JWT
    - Created a user-friendly e-commerce platform with secure authentication
-
 2. **IoT Healthcare Module**
    - ESP8266, DS18B20, Pulse Sensor, C++, Thingspeak, Flutter UI
    - Developed a healthcare monitoring system with IoT integration
-
-
 
 ### 🛠️ Tech Stack
 <p align="center">
@@ -50,7 +46,9 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nehalmr&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-  
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalmr&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 </div>
 
 ### 🤝 Collaboration Interests
@@ -67,9 +65,7 @@
 - 🐦 [X (Twitter)](https://twitter.com/nehalmr08)
 - 🐙 [GitHub](https://github.com/nehalmr)
 
-
 ---
-
 <div align="center">
   <i>"Turning ideas into code, one line at a time."</i><br>
   <i>"The science of today is the technology of tomorrow." - Edward Teller</i>
