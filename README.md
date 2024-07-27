@@ -21,7 +21,7 @@
 1. **QuickCart: E-commerce Software**
    - Python, Tkinter, Custom tkinter, Firebase, JSON, JWT
    - Created a user-friendly e-commerce platform with secure authentication
-2. **IoT Healthcare Module**
+2. **HealthPod: IoT Healthcare Module**
    - ESP8266, DS18B20, Pulse Sensor, C++, Thingspeak, Flutter UI
    - Developed a healthcare monitoring system with IoT integration
 
