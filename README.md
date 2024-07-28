@@ -58,7 +58,6 @@
 
 ### 📫 Connect
 - 🏛️ SPPU, India
-- 📧 your.email@institution.edu
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nehalmr/)
 - 🐦 [X (Twitter)](https://twitter.com/nehalmr08)
 - 🐙 [GitHub](https://github.com/nehalmr)
