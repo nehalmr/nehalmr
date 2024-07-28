@@ -24,6 +24,9 @@
 2. **HealthPod: IoT Healthcare Module**
    - ESP8266, DS18B20, Pulse Sensor, C++, Thingspeak, Flutter UI
    - Developed a healthcare monitoring system with IoT integration
+3. **EduPulse: Campus Management Application**
+   - Developed CMA using Java AWT, Swing, and MySQL for backend connectivity.
+   - Streamlined administrative tasks with an intuitive user interface in this Java-based application.
 
 ### 🛠️ Tech Stack
 <p align="center">
