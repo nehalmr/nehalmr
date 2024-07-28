@@ -64,7 +64,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nehalmr/)
 - 🐦 [X (Twitter)](https://twitter.com/nehalmr08)
 - 🐙 [GitHub](https://github.com/nehalmr)
-- 🔖 [Medium]([nehalmr.medium.com](https://nehalmr.medium.com/))
+- 🔖 [nehalmr.medium.com](https://nehalmr.medium.com/)
 
 ---
 <div align="center">
