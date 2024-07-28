@@ -58,11 +58,11 @@
 - Developing advanced machine learning models
 - Analyzing complex biological datasets
 - Solving computational challenges in quantum systems
-
+  
 ### 📫 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/nehalmr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/nehalmr08" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"></a>
+  <a href="https://twitter.com/nehalmr08" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"></a>
   <a href="https://github.com/nehalmr" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://nehalmr.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
