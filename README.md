@@ -4,7 +4,7 @@
 </div>
 <h1 align="center"> NEHAL MR </h1>
 <h3 align="center"> Python | Java | C++ | Research </h3>
-<h3 align="center"> Software Developer | IoT Enthusiast | Cloud Computing | AIML Learner </h3>
+<h3 align="center"> Software Developer | IoT | Cloud Computing | AIML Learner </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="nehalmr" />
 </p>
