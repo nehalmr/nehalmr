@@ -98,7 +98,7 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
 - **🧬 Bioinformatics:** Computational biology, genetic data analysis, and medical AI.
 - **🌐 Complex Systems:** Network analysis, distributed systems, and microservices design.
 
-## 🎓 Continuous Learning & Skill Development
+## 🎓 Certifications & Continuous Learning & Skill Development
 
 ### Completed Microsoft Learn Training Paths
 - **AZ-900:** Microsoft Azure Fundamentals
@@ -116,7 +116,7 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalmr&layout=compact&theme=radical" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalmr&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nehalmr&theme=radical" alt="GitHub Streak"/>
 </p>
 </details>
 
