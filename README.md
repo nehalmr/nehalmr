@@ -98,7 +98,7 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
 - **🧬 Bioinformatics:** Computational biology, genetic data analysis, and medical AI.
 - **🌐 Complex Systems:** Network analysis, distributed systems, and microservices design.
 
-## 🎓 Certifications & Continuous Learning & Skill Development
+## 🎓 Certifications & Skill Development
 
 ### Completed Microsoft Learn Training Paths
 - **AZ-900:** Microsoft Azure Fundamentals
