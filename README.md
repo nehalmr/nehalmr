@@ -115,8 +115,6 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
   <img src="https://github-readme-stats.vercel.app/api?username=nehalmr&show_icons=true&theme=radical&count_private=true" alt="Nehal's GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalmr&layout=compact&theme=radical" alt="Top Languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=nehalmr&theme=radical" alt="GitHub Streak"/>
 </p>
 </details>
 
