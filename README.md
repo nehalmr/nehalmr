@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-I'm a **multidisciplinary software developer and researcher** based in India, passionate about building innovative solutions that bridge technology and real-world applications. My expertise spans **software development, IoT, cloud computing, and artificial intelligence**.
+I'm a **Software Engineer (DevSecOps)**, currently designing and delivering **100+ Spring Boot microservices** on Azure for a BFS client. I'm a multidisciplinary engineer and researcher passionate about building scalable, secure, and innovative solutions spanning **software development, DevOps, cloud computing, IoT, and artificial intelligence**.
 
-- 🔭 Currently building **advanced machine learning models** and **IoT healthcare solutions**.
+- 🔭 Currently building **scalable cloud-native microservices**, **observability tooling**, and **Generative AI / LLMOps solutions**.
 - 🌱 Actively learning about **quantum computing**, **bioinformatics**, and **cloud-native architectures**.
-- 👯 Looking to collaborate on **JVM/PVM applications**, **low-level programming**, and **AI/ML projects**.
-- 💬 Ask me about **Spring Boot**, **React**, **Flutter**, **AWS**, **Azure**, and **IoT development**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/nehalmr) or [Twitter](https://twitter.com/nehalmr08).
+- 👯 Looking to collaborate on **JVM/PVM applications**, **DevSecOps & cloud-native projects**, and **AI/ML & LLM projects**.
+- 💬 Ask me about **Spring Boot**, **Microservices**, **Microsoft Azure**, **DevSecOps**, **Kafka**, **RAG / LLMs**, and **IoT development**.
+- 📫 How to reach me: [Email](mailto:nehalrane9.7@gmail.com) · [LinkedIn](https://linkedin.com/in/nehalmr) · [GitHub](https://github.com/nehalmr)
 
 <details>
 <summary><h3>💻 View My Technical Stack</h3></summary>
@@ -29,9 +29,10 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
 <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </p>
 
@@ -41,22 +42,38 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="Spring Security"/>
+    <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
 </p>
 
-<h4>Databases</h4>
+<h4>Databases & Streaming</h4>
 <p>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/H2-0078D4?style=for-the-badge&logo=h2&logoColor=white" alt="H2"/>
+    <img src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
 </p>
 
 <h4>Cloud & DevOps</h4>
 <p>
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+<h4>Observability & AI/LLM</h4>
+<p>
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+    <img src="https://img.shields.io/badge/ELK-Eleastic-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK"/>
+    <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude"/>
+    <img src="https://img.shields.io/badge/RAG-VectorDB-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="RAG"/>
 </p>
 
 <h4>IoT & Hardware</h4>
@@ -64,9 +81,28 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
     <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266"/>
     <img src="https://img.shields.io/badge/ThingSpeak-FF6C37?style=for-the-badge&logo=thingspeak&logoColor=white" alt="ThingSpeak"/>
+    <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
 </p>
 
 </details>
+
+## 💼 Experience
+
+### Junior Software Engineer — DevSecOps
+**Cognizant** · Sep 2025 – Oct 2026
+- Designing and delivering **100+ Spring Boot microservices** on Azure for a BFS client using **Kafka**, **Cassandra**, and REST APIs.
+- Built scalable caching (**30M+ req/day**) and AOP-based observability.
+- Optimized CI/CD pipelines, enhancing system reliability, security, and cloud efficiency.
+
+### Software Engineer Intern
+**Cognizant** · Apr 2025 – Aug 2025
+- Full-stack development with **Java (Spring Boot)** and **React.js**, RESTful APIs, Agile methodology, frontend-backend integration, CI/CD, and code reviews.
+
+## 🎓 Education
+
+### Bachelor of Computer Engineering, Honours in Cybersecurity
+**Savitribai Phule Pune University** · Pune, MH · Dec 2021 – Jul 2025
+- **GPA:** 9.0/10
 
 ## 🏆 Featured Projects
 
@@ -79,9 +115,9 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
     <a href="https://github.com/nehalmr/LMS-APP-ReactJS"><img src="https://img.shields.io/badge/View_Frontend-React-61DAFB?style=for-the-badge" alt="Frontend"></a>
 </p>
 
-### 🏥 HealthPod: IoT Healthcare Module
-- **Tech Stack:** ESP8266, C++, Flutter, ThingSpeak
-- **Description:** An IoT device for real-time temperature and pulse monitoring, with cloud analytics via ThingSpeak and a Flutter app for patient dashboards.
+### 🏥 HealthPod: IoT Healthcare Monitoring
+- **Tech Stack:** ESP8266, C++, Flutter, ThingSpeak, Azure AI, MQTT
+- **Description:** An IoT-based system for real-time health monitoring using ESP8266 and biometric sensors, with cloud analytics via ThingSpeak and Azure AI, MQTT for efficient sensor-to-cloud data transmission, and a Flutter mobile app for remote patient monitoring.
 
 ### 🚕 CabbyAI-System: Microservices Architecture
 - **Tech Stack:** Java 21, Spring Boot, Eureka Discovery Service, API Gateway
@@ -89,7 +125,7 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
 
 ### 🛒 QuickCart: E-commerce Platform
 - **Tech Stack:** Python, Tkinter, Firebase, JWT
-- **Description:** A desktop e-commerce application featuring a modern GUI, secure JWT authentication, and a complete shopping workflow.
+- **Description:** A scalable e-commerce platform featuring a modern GUI, secure JWT & OAuth authentication, caching-optimized API response times, and dynamic UI elements with real-time updates.
 
 ## 🔬 Research Interests
 
@@ -98,11 +134,18 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
 - **🧬 Bioinformatics:** Computational biology, genetic data analysis, and medical AI.
 - **🌐 Complex Systems:** Network analysis, distributed systems, and microservices design.
 
-## 🎓 Certifications & Skill Development
+## 🎓 Certifications & Achievements
 
-### Completed Microsoft Learn Training Paths
-- **AZ-900:** Microsoft Azure Fundamentals
-- **AI-102:** Designing and Implementing a Microsoft Azure AI Solution
+### Certifications
+- **Claude Certified Architect - Foundations** (Anthropic)
+- **AWS Partner: Generative AI Technical - Training**
+- **Qualcomm: AI Upskilling Certificate**
+- **Microsoft Learning Paths:** AZ-900 Azure Fundamentals, AI-102 Designing Azure AI Solutions
+
+### Awards & Recognitions
+- 🥈 **2nd Place:** International ROC RoboAnalyzer Competition, IIT Delhi 2024-25
+- 🥇 **1st Place:** IBM Qiskit Fall Fest Quiz and Hackathon 2024-25
+- 🤖 **Participant:** ISRO Robotics Challenge, URSC 2024
 
 ### Professional Activities
 - Active participant in hackathons and tech conferences.
@@ -121,10 +164,11 @@ I'm a **multidisciplinary software developer and researcher** based in India, pa
 ## 🤝 Let's Collaborate
 
 I'm always excited to work on:
-- Enterprise JVM/PVM applications & microservices
-- End-to-end AI/ML systems
+- Enterprise JVM/PVM applications & DevSecOps microservices
+- Cloud-native architecture & Infrastructure as Code (Azure, Kubernetes, Terraform)
+- Event-driven systems with Kafka, Cassandra & Redis
+- End-to-end AI/ML systems & Generative AI / LLMOps (RAG, Prompt Engineering)
 - Innovative IoT healthcare solutions
-- Cloud-native architectural design
 - Research in quantum & bioinformatics
 
 ---

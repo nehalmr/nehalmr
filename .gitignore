@@ -1,0 +1,137 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.Icon?
+.AppleDouble
+.AppleDB
+LSOverride
+*.swp
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.swo
+*~
+*.tmp
+
+# Environment / Secrets
+.env
+.env.*
+.env.local
+.env.production
+*.pem
+*.key
+*.crt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pyc/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+.repo/
+.recommenders/
+.classpath
+.project
+.factorypath
+.settings/
+.springBeans
+.sts4-cache
+
+# Node
+node_modules/
+bower_components/
+coverage/
+.nyc_output/
+.grunt/
+*.tsbuildinfo
+next-env.d.ts
+
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.lock
+.dart_tool/package_config.json
+
+# Docker
+Dockerfile
+docker-compose.override.yml
+.dockerignore
+
+# Test / Coverage
+test-results/
+coverage/
+htmlcov/
+.tox/
+.nox/
+.cache/
+
+# Misc
+*.bak
+*.orig
+*.rej
+.DS_Store
