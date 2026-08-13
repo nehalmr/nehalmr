@@ -89,7 +89,7 @@ I'm a **Software Engineer (DevSecOps)**, currently designing and delivering **10
 ## 💼 Experience
 
 ### Junior Software Engineer — DevSecOps
-**Cognizant** · Sep 2025 – Oct 2026
+**Cognizant** · Sep 2025 – Sep 2026
 - Designing and delivering **100+ Spring Boot microservices** on Azure for a BFS client using **Kafka**, **Cassandra**, and REST APIs.
 - Built scalable caching (**30M+ req/day**) and AOP-based observability.
 - Optimized CI/CD pipelines, enhancing system reliability, security, and cloud efficiency.
