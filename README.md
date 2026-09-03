@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer (DevSecOps)**, currently designing and delivering **100+ Spring Boot microservices** on Azure for a BFS client. I'm a multidisciplinary engineer and researcher passionate about building scalable, secure, and innovative solutions spanning **software development, DevOps, cloud computing, IoT, and artificial intelligence**.
+I'm a **Java Backend Engineer (DevSecOps)** at Cognizant, working with **ING Bank's Core Banking team** on a **50+ service Spring Boot platform** on Azure — where I've personally designed, developed, and delivered **2+ services** through production. I'm a multidisciplinary engineer and researcher passionate about building scalable, secure, and innovative solutions spanning **software development, DevOps, cloud computing, IoT, and artificial intelligence**.
 
 - 🔭 Currently building **scalable cloud-native microservices**, **observability tooling**, and **Generative AI / LLMOps solutions**.
 - 🌱 Actively learning about **quantum computing**, **bioinformatics**, and **cloud-native architectures**.
@@ -88,21 +88,25 @@ I'm a **Software Engineer (DevSecOps)**, currently designing and delivering **10
 
 ## 💼 Experience
 
-### Junior Software Engineer — DevSecOps
-**Cognizant** · Sep 2025 – Sep 2026
-- Designing and delivering **100+ Spring Boot microservices** on Azure for a BFS client using **Kafka**, **Cassandra**, and REST APIs.
-- Built scalable caching (**30M+ req/day**) and AOP-based observability.
-- Optimized CI/CD pipelines, enhancing system reliability, security, and cloud efficiency.
+### Junior Software Engineer (DevSecOps)
+**Cognizant Technology Solutions** · Core Banking – ING Bank (Dutch Multinational Bank) · Pune, MH · Sep 2025 – Present
+- Contributed to a **50+ service Spring Boot platform** on Microsoft Azure for ING Bank's Core Banking team, supporting REST APIs and event-driven workloads with **Kafka** and **Cassandra**.
+- Designed, developed, and delivered **2+ services** through production, owning API development, business logic, testing, CI/CD integration, and production readiness.
+- Built and optimized caching components supporting **30M+ requests/day**, reducing average response latency by **25%** for critical banking workflows.
+- Implemented AOP-based logging, tracing, and metrics, reducing production mean-time-to-detect (MTTD) by **50%**.
+- Contributed to Azure DevOps CI/CD improvements and automated security scanning, helping reduce release cycle time by **80%**.
+- Supported code reviews, dependency upgrades, defect resolution, security remediation, and production troubleshooting across services.
 
-### Software Engineer Intern
-**Cognizant** · Apr 2025 – Aug 2025
-- Full-stack development with **Java (Spring Boot)** and **React.js**, RESTful APIs, Agile methodology, frontend-backend integration, CI/CD, and code reviews.
+### Java Full Stack Intern
+**Cognizant Technology Solutions** · Pune, MH · Apr 2025 – Aug 2025
+- Completed Java Full Stack training (Java, Spring Boot, React JS, MySQL, AWS); built REST APIs, integrated React UI, and deployed apps on AWS EC2 in Agile using Git.
+- Developed responsive UI with React + Bootstrap; implemented JPA/Hibernate service layers, custom queries, and exception handling, following Git best practices.
 
 ## 🎓 Education
 
 ### Bachelor of Computer Engineering, Honours in Cybersecurity
 **Savitribai Phule Pune University** · Pune, MH · Dec 2021 – Jul 2025
-- **GPA:** 9.0/10
+- **GPA:** 8.8/10
 
 ## 🏆 Featured Projects
 
@@ -116,16 +120,16 @@ I'm a **Software Engineer (DevSecOps)**, currently designing and delivering **10
 </p>
 
 ### 🏥 HealthPod: IoT Healthcare Monitoring
-- **Tech Stack:** ESP8266, C++, Flutter, ThingSpeak, Azure AI, MQTT
-- **Description:** An IoT-based system for real-time health monitoring using ESP8266 and biometric sensors, with cloud analytics via ThingSpeak and Azure AI, MQTT for efficient sensor-to-cloud data transmission, and a Flutter mobile app for remote patient monitoring.
+- **Tech Stack:** ESP8266, MQTT, ThingSpeak, Azure AI, Flutter
+- **Description:** Developed an IoT monitoring solution using ESP8266 and biometric sensors, with MQTT for real-time sensor-to-cloud data transmission. Integrated ThingSpeak and Azure AI for cloud analytics, with a Flutter app enabling remote monitoring for caregivers.
 
 ### 🚕 CabbyAI-System: Microservices Architecture
 - **Tech Stack:** Java 21, Spring Boot, Eureka Discovery Service, API Gateway
 - **Description:** A backend system for a ride-hailing service, built with a modern microservices architecture for scalability and resilience.
 
 ### 🛒 QuickCart: E-commerce Platform
-- **Tech Stack:** Python, Tkinter, Firebase, JWT
-- **Description:** A scalable e-commerce platform featuring a modern GUI, secure JWT & OAuth authentication, caching-optimized API response times, and dynamic UI elements with real-time updates.
+- **Tech Stack:** Python, Tkinter, Firebase, JWT/OAuth
+- **Description:** Built an end-to-end e-commerce application supporting product catalog, cart, and order workflows, with a Tkinter frontend and Firebase backend. Implemented JWT/OAuth authentication, caching, and real-time UI updates to improve responsiveness and user experience.
 
 ## 🔬 Research Interests
 
